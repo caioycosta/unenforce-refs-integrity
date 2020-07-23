@@ -5,7 +5,11 @@ If you want to know why, read this question on SuperUser:
 
 https://superuser.com/questions/1502901/how-to-turn-refs-enforced-file-integrity-off
 
-Project based off this answer on SuperUser:
+But it is not so simple, as the command can fail on really big directory tree:
+
+https://superuser.com/questions/1561252/how-to-traverse-a-really-big-directory-tree-with-powershell
+
+So I created this project based off the answer on SuperUser:
 
 https://superuser.com/a/1561283/177447
 
